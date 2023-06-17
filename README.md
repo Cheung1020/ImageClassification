@@ -8,5 +8,5 @@
 * Torchvision
 * JetPack 4.6
 # References
-[Getting Started with AI on Jetson Nano]([https://pages.github.com/](https://ithelp.ithome.com.tw/m/articles/10297084)https://ithelp.ithome.com.tw/m/articles/10297084)
+[Getting Started with AI on Jetson Nano]([https://ithelp.ithome.com.tw/m/articles/10297084)
 [chu24/Jetson-Nano-2G](https://github.com/chu24/Jetson-Nano-2G)
