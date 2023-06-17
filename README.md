@@ -10,3 +10,4 @@
 # References
 * [Getting Started with AI on Jetson Nano](https://ithelp.ithome.com.tw/m/articles/10297084)
 * [chu24/Jetson-Nano-2G](https://github.com/chu24/Jetson-Nano-2G)
+* [DLI(Deep Learning Institute)](https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/)
