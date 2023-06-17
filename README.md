@@ -23,3 +23,21 @@
    rm docker.io_20.10.2-0ubuntu1~18.04.2_arm64.deb
    sudo apt-get install containerd
    ```
+3. Create the corresponding version file of the package
+  ```
+  sudo gedit /etc/apt/preferences
+  ```
+4. Fill in the following content and file
+  ```
+  Package: docker.io
+  Pin: version 20.10.2*
+  Pin-Priority: 1001
+  Package: containerd
+  Pin: version 1.5.2*
+  Pin-Priority: 1001
+  ```
+5. Reboot System
+  ```
+  sudo reboot
+  ```
+6. 
