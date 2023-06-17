@@ -14,5 +14,5 @@
 # Pre-Processing
 1. Install the corresponding kit
   ```
-    這邊是程式碼
+    sudo apt-get install nvidia-container-toolkit nvidia-container-runtime nvidia-container-csv-*
   ```
