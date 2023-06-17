@@ -13,6 +13,6 @@
 * [DLI(Deep Learning Institute)](https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/)
 # Pre-Processing
 1. Install the corresponding kit
-  ```js
+  ```
     這邊是程式碼
   ```
