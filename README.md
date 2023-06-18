@@ -17,12 +17,12 @@
   sudo apt-get install nvidia-container-toolkit nvidia-container-runtime nvidia-container-csv-*
   ```
 2. Reinstall the specified version of docker
-   ```
-   wget https://launchpad.net/ubuntu/+source/docker.io/20.10.2-0ubuntu1~18.04.2/+build/21335731/+files/docker.io_20.10.2-0ubuntu1~18.04.2_arm64.deb
-   sudo dpkg -i docker.io_20.10.2-0ubuntu1~18.04.2_arm64.deb
-   rm docker.io_20.10.2-0ubuntu1~18.04.2_arm64.deb
-   sudo apt-get install containerd
-   ```
+  ```
+  wget https://launchpad.net/ubuntu/+source/docker.io/20.10.2-0ubuntu1~18.04.2/+build/21335731/+files/docker.io_20.10.2-0ubuntu1~18.04.2_arm64.deb
+  sudo dpkg -i docker.io_20.10.2-0ubuntu1~18.04.2_arm64.deb
+  rm docker.io_20.10.2-0ubuntu1~18.04.2_arm64.deb
+  sudo apt-get install containerd
+  ```
 3. Create the corresponding version file of the package
   ```
   sudo gedit /etc/apt/preferences
