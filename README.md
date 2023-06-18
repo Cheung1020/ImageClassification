@@ -53,3 +53,6 @@
    nvcr.io/nvidia/dli/dli-nano-ai:v2.0.1-r32.6.1tw
   ```
 8. Log in to JupyterLab with a browser, then open classification_interactive.ipynb or classify_emotions.ipynb to start execution.(You can upload ipynb files to Jupyter Notebook)
+# User Interface
+![GITHUB](https://github.com/Cheung1020/ImageClassification/blob/main/ImageClassification_UI.png "ImageClassification_UI")
+
